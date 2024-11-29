@@ -19,5 +19,5 @@ Built with responsive design for an optimal viewing experience across various de
 Offers an overview of my skills and project work, tailored for potential employers.
 
 Questions?
-If you have any questions, feel free to reach out or connect through the contact information provided on the portfolio site.
+If you have any questions, feel free to reach out 
 
