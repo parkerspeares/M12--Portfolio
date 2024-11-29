@@ -2,11 +2,11 @@ import "../App.css";
 import Projects from "./Projects";
 
 // import BackImg from "../assets/images.jpg";
-import CandidateSearch from "../assets/Candidate-Search.jpg";
-import BookSearch from "../assets/Book-Search.jpg";
-import VehicalBuilder from "../assets/vehicle-builder.jpg";
-import EmployeeTracker from "../assets/employee-tracker.jpg";
-import Weather from "../assets/weather-app.jpg";
+import CandidateSearch from "../assets/CandidateSearch.jpg";
+import BookSearch from "../assets/BookSearch.jpg";
+import VehicalBuilder from "../assets/VehicleBuilder.jpg";
+import EmployeeTracker from "../assets/EmployeeTracker.png";
+import WeatherApp from "../assets/WeatherApp.png";
 
 export default function Portfolio() {
     return (
@@ -35,7 +35,7 @@ export default function Portfolio() {
                 />
                 <Projects
                     title="Weather-App"
-                    backgroundImg={Weather}
+                    backgroundImg={WeatherApp}
                     link="https://github.com/parkerspeares/Module--9--Weather--Dashboard--App.git"
                 />
             </div>
