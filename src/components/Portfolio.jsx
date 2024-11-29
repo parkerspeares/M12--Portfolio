@@ -2,10 +2,10 @@ import "../App.css";
 import Projects from "./Projects";
 
 // import BackImg from "../assets/images.jpg";
-import CandidateSearch from "../assets/Candidate-Search.png";
+import CandidateSearch from "../assets/Candidate-Search.jpg";
 import BookSearch from "../assets/Book-Search.jpg";
-import VehicalBuilder from "../assets/vehicle-builder.png";
-import SQL from "../assets/sql.jpg";
+import VehicalBuilder from "../assets/vehicle-builder.jpg";
+import EmployeeTracker from "../assets/employee-tracker.jpg";
 import Weather from "../assets/weather-app.jpg";
 
 export default function Portfolio() {
@@ -29,8 +29,8 @@ export default function Portfolio() {
                     link="https://github.com/parkerspeares/Module--8--Vehicle-Builder.git"
                 />
                 <Projects
-                    title="Employee Tracker"
-                    backgroundImg={SQL}
+                    title="Employee-Tracker"
+                    backgroundImg={EmployeeTracker}
                     link="https://github.com/parkerspeares/Module--10--Employee-Tracker.git"
                 />
                 <Projects
