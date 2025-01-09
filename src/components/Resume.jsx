@@ -61,10 +61,12 @@ Denton, TX | BA International Studies
 <br></br><br></br><br></br>
 Jerome Chenette 
 Senior Web Development Instructor | University of Oregon Full Stack Bootcamp|
+<br></br>
 [jerome.chenette@gmail.com] [415 572 8357]
 <br></br><br></br>
 Nancy Beesley
 CEO | HCB Health| 
+<br></br>
 [512-589-2323]
 <br></br><br></br><br></br>
             </div>
