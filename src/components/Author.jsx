@@ -10,11 +10,11 @@ export default function Author() {
                 <h2>Author: Parker Speares</h2>
                 <p>Full Stack Developer</p>
                 <p>
-                    Parker Speares is a full stack developer with a passion for creativity & problem solving. He has experience with JavaScript, React, Node.js, MERN Stack, and typescript. He is currently attending a coding Bootcamp from the University of Utah in the hopes of getting a full-time position as a software developer.</p>
+                    Parker Speares is a full stack developer with a passion for creativity & problem solving. He has experience with JavaScript, React, Node.js, MERN Stack, and typescript. He just completed his coding Bootcamp from the University of Oregon in the hopes of getting a full-time position as a software developer in either Fullstack, Frontend or Backend Development.</p>
                 <p>
-                    He is working on graduating from the University of Oregon Coding Bootcamp and has a Bachelors degree in International Studies from the University of North Texas.</p>
+                    He already has a Bachelors degree in International Studies from the University of North Texas.</p>
                 <p>
-                    Parker has worked his early years of his career in medical administration & ophthalmology. As a Portland resident, he enjoys hiking & camping, is an avid skier, and writes original music, primarily Bass Guitar across multiple bands.
+                    Parker has worked his early years of his career in medical administration & ophthalmology. As a Portland resident, he enjoys hiking & camping, is an avid skier, also writes original music, primarily bass guitar and drums across multiple bands.
                 </p>
             </div>
         </div>
