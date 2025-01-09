@@ -12,6 +12,24 @@ export default function Portfolio() {
     return (
         <>
             <h2 className="portfolio">Portfolio</h2>
+            <div className="Capstone Projects">
+                <Projects
+                    title="Scene It Game"
+                    backgroundImg={Sceneitgame}
+                    link="https://github.com/JoshuaPruitt/Scene-It-Game-Project-01"
+                />
+                <Projects
+                    title="DND Game"
+                    backgroundImg={DungeonsandDragons}
+                    link="https://github.com/Durfey32/DND-Game"
+                />
+                <Projects
+                    title="Madlibs Game"
+                    backgroundImg={Madlibs}
+                    link="https://github.com/Kagen-Smith/project-3-madlibs"
+                />
+</div>
+</>,
             <div className="projects">
                 <Projects
                     title="Candidate-Search"
@@ -39,6 +57,6 @@ export default function Portfolio() {
                     link="https://github.com/parkerspeares/Module--9--Weather--Dashboard--App.git"
                 />
             </div>
-        </>
+        
     );
 }
