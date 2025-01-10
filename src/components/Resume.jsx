@@ -38,7 +38,8 @@ export default function Resume() {
   <li>Technical Communication</li>
 </ul>
 <br></br><br></br><br></br>
-
+WORK EXPERIENCE
+<br></br><br></br>
 AMERICAN SOCEITY OF CATARACT & REFRACTIVE SURGEONS
 Program Coordinator | April 2022 – April 2024
 •	Enhanced program efficiency through process optimization and innovative solutions.
@@ -52,7 +53,8 @@ Data Specialist | September 2017 – Feb 2022
 •	Identified trends in complex datasets to enhance business efficiency.
 •	Developed custom algorithms to optimize data mining processes.
 <br></br><br></br><br></br>
-
+EDUCATION 
+<br></br><br></br>
 UNIVERSITY OF OREGON FULL STACK BOOTCAMP
 Portland, OR | Certificate of Completion
 <br></br><br></br>
