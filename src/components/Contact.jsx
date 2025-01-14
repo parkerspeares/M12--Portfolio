@@ -42,7 +42,6 @@ export default function Contact() {
                 <input type="text" id="name" />
                 <label htmlFor="email">Email:</label>
                 <input type="email" id="email" />
-                <BR></BR><BR></BR><BR></BR><BR></BR><BR></BR>
                 <label htmlFor="message">Message:</label>
                 <textarea id="message" rows="5"></textarea>
                 <button type="submit">Submit</button>
