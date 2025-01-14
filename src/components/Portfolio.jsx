@@ -1,5 +1,5 @@
 import "../App.css";
-//import Projects from "./Projects";
+import Projects from "./Projects";
 
 // import BackImg from "../assets/images.jpg";
 import CandidateSearch from "../assets/CandidateSearch.jpg";
