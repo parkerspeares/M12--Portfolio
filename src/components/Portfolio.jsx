@@ -15,17 +15,17 @@ export default function Portfolio() {
             <div className="Capstone Projects">
                 <Projects
                     title="Scene It Game"
-                    backgroundImg={Sceneitgame}
+                    //backgroundImg={Sceneitgame}
                     link="https://github.com/JoshuaPruitt/Scene-It-Game-Project-01"
                 />
                 <Projects
                     title="DND Game"
-                    backgroundImg={DungeonsandDragons}
+                    //backgroundImg={DungeonsandDragons}
                     link="https://github.com/Durfey32/DND-Game"
                 />
                 <Projects
                     title="Madlibs Game"
-                    backgroundImg={Madlibs}
+                   // backgroundImg={Madlibs}
                     link="https://github.com/Kagen-Smith/project-3-madlibs"
                 />
 </div>
@@ -33,27 +33,27 @@ export default function Portfolio() {
             <div className="projects">
                 <Projects
                     title="Candidate-Search"
-                    backgroundImg={CandidateSearch}
+                  //  backgroundImg={CandidateSearch}
                     link="https://github.com/parkerspeares/Module--13--Candidate--Search--App.git"
                 />
                 <Projects
                     title="Book-Search"
-                    backgroundImg={BookSearch}
+                  //  backgroundImg={BookSearch}
                     link="https://github.com/parkerspeares/Module--18--Book--Search.git"
                 />
                 <Projects
                     title="Vehicle-Builder"
-                    backgroundImg={VehicalBuilder}
+                  //  backgroundImg={VehicalBuilder}
                     link="https://github.com/parkerspeares/Module--8--Vehicle-Builder.git"
                 />
                 <Projects
                     title="Employee-Tracker"
-                    backgroundImg={EmployeeTracker}
+                 //   backgroundImg={EmployeeTracker}
                     link="https://github.com/parkerspeares/Module--10--Employee-Tracker.git"
                 />
                 <Projects
                     title="Weather-App"
-                    backgroundImg={WeatherApp}
+                  //  backgroundImg={WeatherApp}
                     link="https://github.com/parkerspeares/Module--9--Weather--Dashboard--App.git"
                 />
             </div>
