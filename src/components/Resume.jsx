@@ -3,9 +3,7 @@ import "../App.css";
 export default function Resume() {
     return (
         <>
-            <div className="resume">
-                <a className="download" href="/resume.png" download="resume.png">Click Here to Download My Resume</a>
-            </div>
+
             <div className="skillsList">
                 <h2>Resume</h2>
                 Self-motivated full-stack developer with a passion for crafting scalable, user-centric applications. Eager to leverage expertise in front-end and back-end technologies, database management, and API integration to build innovative solutions that enhance user experience and drive business success. Seeking a challenging role within a dynamic team to contribute to impactful projects with continuous testing and integration, all while working to enhance my technical skills.
