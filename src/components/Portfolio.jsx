@@ -1,4 +1,4 @@
-import "../App.css";
+import React from "react";
 //import Projects from "./Projects";
 
 // import BackImg from "../assets/images.jpg";
