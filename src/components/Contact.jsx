@@ -43,7 +43,7 @@ export default function Contact() {
                 <label htmlFor="email">Email:</label>
                 <input type="email" id="email" />
                 <label htmlFor="message">Message:</label>
-                <textarea id="message" rows="5"></textarea>
+                <textarea id="message" rows="1"></textarea>
                 <button type="submit">Submit</button>
             </form>
             <p id="error"></p>
